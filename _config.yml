@@ -64,10 +64,10 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Brian Stock
-  email: "brian.stock@noaa.gov"
+  name: Ansah Randy Kofi
+  email: "randyansah97@gmail.com"
   #facebook: yourname  # eg. daattali
-  github: brianstock    # eg. daattali
+  github: Randyansah    # eg. daattali
   #twitter: yourname   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
