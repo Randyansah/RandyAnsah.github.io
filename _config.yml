@@ -14,8 +14,8 @@ baseurl: ""
 #url: "http://Randyansah.github.io/CV/Electrical_CV"
 #baseurl: "/CV"
 
-url: "http://Randyansah.github.io/CV/Electrical_CV"
-baseurl: "/CV/Electrical_CV"
+#url: "http://Randyansah.github.io/CV/Electrical_CV"
+#baseurl: "/CV/Electrical_CV"
 
 
 
@@ -36,7 +36,7 @@ navbar-links:
   Research:
     - Distribution Network Reconfiguration using Genetic Algorithm: "dnr_ga"       
   CV: 
-    - Electrical CV: "/CV/Electrical_CV"
+    - Electrical CV: "http://Randyansah.github.io/CV/Electrical_CV"
     - AI and ML CV: "/CV/"
     - Robotics CV: "/CV/Robotics_CV"
 
