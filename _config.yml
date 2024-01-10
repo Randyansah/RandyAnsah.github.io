@@ -14,6 +14,11 @@ baseurl: ""
 #url: "http://Randyansah.github.io/CV/Electrical_CV"
 #baseurl: "/CV"
 
+url: "http://Randyansah.github.io/CV/Electrical_CV"
+baseurl: "/CV"
+
+
+
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
