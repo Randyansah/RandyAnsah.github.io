@@ -1,8 +1,8 @@
-<div align="centre">RANDY KOFI ANSAH</div>
+<div align="center">RANDY KOFI ANSAH</div>
 
-<div align="centre">P.O BOX 225 Dansoman Accra-Ghana, Mobile Phone: +233557860502</div>
+<div align="center">P.O BOX 225 Dansoman Accra-Ghana, Mobile Phone: +233557860502</div>
                                 
-<div align="centre">randyansah97@gmail.com</div>
+<div align="center">randyansah97@gmail.com</div>
 
 ####                                                         randyansah97@gmail.com
 
