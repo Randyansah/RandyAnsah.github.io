@@ -66,6 +66,7 @@ looking for opportunities to learn and grow in the field of electrical engineeri
 agreements and specifications
 > - Reduced rate of failure of equipment by 80% through preventive maintenance with the help of my colleagues
 > - Designed a maintenance report format making it more detailed and concise
+
 ### Electrical Engineer Intern, Anointed Electrical Engineering Services Ltd, Accra Oct 2021 - Dec 2021
 > - Designed a 5v power system circuit, Astable, and nonstable circuits to control equipment reducing power consumption
 by 60%
@@ -74,9 +75,11 @@ Information Technology Engineer Intern, White Cross Chemicals, Accra Sep 2020 - 
 > - Sensitized users on best practices of using hardware peripherals and software applications reducing malfunctions by
 50%
 > - Developed a stock management system to keep digital records of inventory.
+
 ### Electrical Engineering intern, Electricity Company of Ghana, Accra May 2020 - Jun 2020
 > - Developed an inspection checklist and standard operating procedures reducing downtime of equipment by 50%.
 > - Assisted electrical field engineers in conducting load balancing tests reducing transformer damage and power surges.
+
 ### Voluntary Teacher, Carobells Academy, Bortianor May 2017 - May 2018
 > - Increased the computer literacy rate of students by 90%.
 > - Encouraged creative thinking and motivated students by addressing individual strengths and weaknesses based on
