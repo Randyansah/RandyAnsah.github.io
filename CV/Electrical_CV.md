@@ -4,7 +4,7 @@
 <p align="center"><font-size="+2">randyansah97@gmail.com</font></p>
 
 
-<p>CAREER PROFILE</p>
+## CAREER PROFILE
 
 Randy is an innovative, detail-oriented and dedicated individual with a strong passion for electrical engineering who
 possesses a multifaceted skill specializing in the design, maintenance, automation and instrumentation of high voltage
@@ -13,7 +13,8 @@ guaranteeing reliable power delivery and optimizing efficiency. With a proven tr
 excellence, I am committed to advancing electrical infrastructure for a sustainable and connected future. Randy is always
 looking for opportunities to learn and grow in the field of electrical engineering.
 
->EDUCATION
+## EDUCATION
+
 > - University of Energy and Natural Resources Sunyani, Bono Region
 > - Program: BSc Electrical and Electronic Engineering Sep 2018 - Oct 2022
 > - 
