@@ -4,7 +4,7 @@
 <p align="center">randyansah97@gmail.com</p>
 
 
-##                                                             CAREER PROFILE
+<p>CAREER PROFILE</p>CAREER PROFILE
 
 Randy is an innovative, detail-oriented and dedicated individual with a strong passion for electrical engineering who
 possesses a multifaceted skill specializing in the design, maintenance, automation and instrumentation of high voltage
