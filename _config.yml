@@ -31,7 +31,7 @@ navbar-links:
   Research:
     - Distribution Network Reconfiguration using Genetic Algorithm: "dnr_ga"       
   CV: 
-    - Electrical CV: "Randyansah.github.io/CV/Electrical_CV"
+    - Electrical CV: "/CV/Electrical_CV"
     - AI and ML CV: "/CV/"
     - Robotics CV: "/CV/Robotics_CV"
 
