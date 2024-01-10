@@ -4,6 +4,7 @@ P.O BOX 225 Dansoman Accra-Ghana, Mobile Phone: +233557860502
 randyansah97@gmail.com
 
 CAREER PROFILE
+
 Randy is an innovative, detail-oriented and dedicated individual with a strong passion for electrical engineering who
 possesses a multifaceted skill specializing in the design, maintenance, automation and instrumentation of high voltage
 distribution and transmission systems. His career revolves around upholding electrical quality assurance standards,
@@ -37,6 +38,7 @@ CERTIFICATES/ ACHIEVEMENTS / AWARDS
 
 
 PROJECTS
+
 INDCON: Industrial systems control using gestures Jan 2023
 • Built a microcontroller system that controls industrial processes by the use of gestures
 • It incorporates a camera to take real-time video feeds of gestures to perform certain factory processes
@@ -66,17 +68,22 @@ Voluntary Teacher, Carobells Academy, Bortianor May 2017 - May 2018
 • Increased the computer literacy rate of students by 90%.
 • Encouraged creative thinking and motivated students by addressing individual strengths and weaknesses based on
 standardized syllabus.
+
+
 LEADERSHIP EXPERIENCE
+
 Head, Mechatronics Interest Group, Institute of Mechanical Engineers, UENR Oct 2021 - Oct 2022
 • Successfully organized the inception and inauguration of the mechatronics interest group on campus
 • Managed a team of over 50 students to learn and equip themselves with skills revolving around robotics, embedded
 systems, and IoT.
+
 Vice President, UENR Robotics Club, University of Energy and Natural Resources Sep 2021 - Oct 2022
 • Chaired an 8-member committee vetting the club’s executive aspirants.
 • Successfully led a team from the club to win the National Energy Innovation Competition with the help of my
 colleagues
 • Managed a team of over 50 students to learn and equip themselves with skills revolving around robotics, and the
 Internet of Things
+
 Public Relations Officer, UENR Robotics Club, University of Energy and Natural Resources May 2020 - Sep 2021
 • Increased the club's social media followers by 400%.
 • Improved information dissemination through social media and represented the club at interviews.
@@ -88,6 +95,7 @@ CYME
 • Programming Languages: Python, SQL, C++
 • Proficient in PLC, SCADA, and DCS systems
 • Proficient in Data Science, Machine learning, Artificial Intelligence, Robotics and Embedded systems
+
 VOLUNTEER ACTIVITIES
 • Facilitator, Wan Hive Robotics Drive, UENR, Sunyani Aug 2022
 • Facilitator, World Engineering Day, UENR, Sunyani Mar 2022
@@ -95,6 +103,7 @@ VOLUNTEER ACTIVITIES
 • Facilitator, GHIE skills fair, UENR, Sunyani Mar 2021
 • Facilitator, Electrical and Electronics Department Arduino Workshop, UENR, Sunyani Jan 2021
 • Facilitator, Science fair, University of Energy and Natural Resources, UENR, Sunyani Feb 2020
+
 HOBBIES AND INTEREST
 • Research, Electrical Quality Assurance, Project Management, Maintenance and Troubleshooting, High Voltage
 System Design, Volunteering, Green and Sustainable System Design, Carbon Accounting
