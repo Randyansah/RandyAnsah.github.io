@@ -1,11 +1,11 @@
 #                                                              RANDY KOFI ANSAH
 
-                            <p style="text-align: center">P.O BOX 225 Dansoman Accra-Ghana, Mobile Phone: +233557860502</p>
+####                                     P.O BOX 225 Dansoman Accra-Ghana, Mobile Phone: +233557860502
 
-                                        <p style="text-align: center">randyansah97@gmail.com</p>
+####                                                         randyansah97@gmail.com
 
 
-##                                                             CAREER PROFILE</p> 
+##                                                             CAREER PROFILE
 
 Randy is an innovative, detail-oriented and dedicated individual with a strong passion for electrical engineering who
 possesses a multifaceted skill specializing in the design, maintenance, automation and instrumentation of high voltage
