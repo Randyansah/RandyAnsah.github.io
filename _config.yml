@@ -11,12 +11,6 @@ baseurl: ""
 #url: "http://Randyansah.github.io/projectname"
 #baseurl: "/projectname"
 
-#url: "http://Randyansah.github.io/CV/Electrical_CV"
-#baseurl: "/CV"
-
-#url: "http://Randyansah.github.io/CV/Electrical_CV"
-#baseurl: "/CV/Electrical_CV"
-
 
 
 # Of course don't forget to change the username and projectname to YOUR username and project
@@ -36,7 +30,7 @@ navbar-links:
   Research:
     - Distribution Network Reconfiguration using Genetic Algorithm: "dnr_ga"       
   CV: 
-    - Electrical CV: "http://Randyansah.github.io/CV/Electrical_CV"
+    - Electrical CV: "/Randyansah.github.io/CV/Electrical_CV"
     - AI and ML CV: "/CV/"
     - Robotics CV: "/CV/Robotics_CV"
 
