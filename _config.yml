@@ -26,7 +26,7 @@ navbar-links:
   Projects:
     - Robotics: "robotics"
   Research:
-    - Distribution Network Reconfiguration using Genetic Algorithm: ""       
+    - Distribution Network Reconfiguration using Genetic Algorithm: "dnr_ga"       
   CV: 
     - Electrical CV: "CV_RANDY_KOFI_ANSAH_ELECT_ENG_NO_REFERENCE.pdf"
     - AI and ML CV: ""
