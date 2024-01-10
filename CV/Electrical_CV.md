@@ -14,29 +14,30 @@ guaranteeing reliable power delivery and optimizing efficiency. With a proven tr
 excellence, I am committed to advancing electrical infrastructure for a sustainable and connected future. Randy is always
 looking for opportunities to learn and grow in the field of electrical engineering.
 
-EDUCATION
-University of Energy and Natural Resources Sunyani, Bono Region
+>EDUCATION
+> - University of Energy and Natural Resources Sunyani, Bono Region
 Program: BSc Electrical and Electronic Engineering Sep 2018 - Oct 2022
-Aggrey Memorial A.M.E Zion Senior High School Cape Coast, Central Region
+> - Aggrey Memorial A.M.E Zion Senior High School Cape Coast, Central Region
 Program: General Science Sep 2014 - May 2017
 
 
 
 
-CERTIFICATES/ ACHIEVEMENTS / AWARDS
-• Student Inventor of the Year, GHIE Eminence Awards, UENR 2022
-• Energy Production, Distribution and Safety Specialization, University of Buffalo, Coursera Sep 2023
-• Power System: Generation, Transmission and Protection Specialization, L&T EduTech, Coursera Jul 2023
-• A Practioner’s Approach to Power Distribution & Automation Specialization, L&T EduTech, Coursera Jul 2023
-• Google Project Management Specialization, Google, Coursera Jun 2022
-• Engineering Project Management Specialization, RICE University, Coursera Apr 2022
-• Introduction to Sustainability, University of Illinois at Urbana-Champaign Apr 2022
-• Top 14 Teams Finalist, Ocean Challenge, Team AQUA AI, Garage48 Apr 2022
-• Hultprize Competition Semifinalist, UENR, Sunyani Feb 2022
-• Electric power Systems, University of Buffalo, Coursera Jan 2022
-• Electric Industry Operations and Markets, Duke University, Coursera Jan 2022
-• GMES Competition, Project Curiosity Team, 1st Runner Up Nov 2021
-• Enactus National Competition, Project Management team member, 2nd Runner up Sep 2021
+##CERTIFICATES/ ACHIEVEMENTS / AWARDS
+
+* Student Inventor of the Year, GHIE Eminence Awards, UENR 2022
+* Energy Production, Distribution and Safety Specialization, University of Buffalo, Coursera Sep 2023
+* Power System: Generation, Transmission and Protection Specialization, L&T EduTech, Coursera Jul 2023
+* A Practioner’s Approach to Power Distribution & Automation Specialization, L&T EduTech, Coursera Jul 2023
+* Google Project Management Specialization, Google, Coursera Jun 2022
+* Engineering Project Management Specialization, RICE University, Coursera Apr 2022
+* Introduction to Sustainability, University of Illinois at Urbana-Champaign Apr 2022
+* Top 14 Teams Finalist, Ocean Challenge, Team AQUA AI, Garage48 Apr 2022
+* Hultprize Competition Semifinalist, UENR, Sunyani Feb 2022
+* Electric power Systems, University of Buffalo, Coursera Jan 2022
+* Electric Industry Operations and Markets, Duke University, Coursera Jan 2022
+* GMES Competition, Project Curiosity Team, 1st Runner Up Nov 2021
+* Enactus National Competition, Project Management team member, 2nd Runner up Sep 2021
 
 
 PROJECTS
