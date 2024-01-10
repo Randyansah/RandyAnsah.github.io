@@ -16,14 +16,15 @@ looking for opportunities to learn and grow in the field of electrical engineeri
 
 >EDUCATION
 > - University of Energy and Natural Resources Sunyani, Bono Region
->Program: BSc Electrical and Electronic Engineering Sep 2018 - Oct 2022
+> - Program: BSc Electrical and Electronic Engineering Sep 2018 - Oct 2022
+> - 
 > - Aggrey Memorial A.M.E Zion Senior High School Cape Coast, Central Region
->Program: General Science Sep 2014 - May 2017
+> - Program: General Science Sep 2014 - May 2017
 
 
 
 
-##CERTIFICATES/ ACHIEVEMENTS / AWARDS
+## CERTIFICATES/ ACHIEVEMENTS / AWARDS
 
 * Student Inventor of the Year, GHIE Eminence Awards, UENR 2022
 * Energy Production, Distribution and Safety Specialization, University of Buffalo, Coursera Sep 2023
