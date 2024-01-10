@@ -8,7 +8,7 @@ title: Electrical CV
 <p align="center"><strong>RANDY KOFI ANSAH </strong></p>
 
 <p align="center">P.O BOX 225 Dansoman Accra-Ghana, Mobile Phone: +233557860502</p>                             
-<p align="center"><font-size="+2">randyansah97@gmail.com</font></p>
+<p align="center">randyansah97@gmail.com</p>
 
 
 ## CAREER PROFILE
