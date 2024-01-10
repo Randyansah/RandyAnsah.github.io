@@ -26,17 +26,7 @@ navbar-links:
   Projects:
     - Robotics: "robotics"
   Research:
-    - State-space stock assessment: "statespace"    
-    - Length-based assessment: "lengthassess"
-    - Recruitment processes: "recruitment"
-    - Spatial bycatch prediction: "spatialbycatch"    
-    - Mixing models to estimate diet: "mixingmodels"    
-  Workshops:
-    # - Mixing models: "work-mixingmodels"
-    - Intro to R: "work-introR"
-  Software: 
-    - WHAM: "wham"
-    - MixSIAR: "mixsiar"    
+    - Distribution Network Reconfiguration using Genetic Algorithm: ""       
   CV: 
     - Electrical CV: "CV_RANDY_KOFI_ANSAH_ELECT_ENG_NO_REFERENCE"
     - AI and ML CV: ""
