@@ -1,3 +1,9 @@
+---
+layout: page
+title: Robotics CV
+
+---
+
 # Randy Kofi Ansah
 P.O BOX 225 Dansoman Accra-Ghana, Mobile Phone: +233557860502
 randyansah97@gmail.com https://github.com/Randyansah
