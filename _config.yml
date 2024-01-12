@@ -13,7 +13,7 @@ baseurl: ""
 
 
 
-# Of course don't forget to change the username and projectname to YOUR username and project
+# Of course don't forget to change the username and project name to YOUR username and project
 
 # Name of website
 title: Ansah Randy Kofi
@@ -26,13 +26,15 @@ description: Research and Development Engineer | AI and ML Engineer | Roboticist
 # List of links in the navigation bar
 navbar-links:
   Projects:
-    - Robotics: "robotics"
+    - Robotics: "/Randyansah.github.io/Projects/robotics"
+    - AI and ML: "/Randyansah.github.io/Projects/ai_ml"
   Research:
-    - Distribution Network Reconfiguration using Genetic Algorithm: "dnr_ga"       
+    - Distribution Network Reconfiguration using Genetic Algorithm: "/Randyansah.github.io/Research/dnr_ga" 
+    - FAAD:"/Randyansah.github.io/Research/faad"
   CV: 
     - Electrical CV: "/Randyansah.github.io/CV/Electrical_CV"
-    - AI and ML CV: "/CV/"
-    - Robotics CV: "/CV/Robotics_CV"
+    - AI and ML CV: "/Randyansah.github.io/CV/ai_ml"
+    - Robotics CV: "/Randyansah.github.io/CV/robotics_CV"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
