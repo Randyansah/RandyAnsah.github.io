@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI and ML Projects
+title: Robotics Projects
 bigimg: 
   - "/Projects/robotics_img.jpg"
 ---
