@@ -2,7 +2,7 @@
 layout: page
 title: Distribution Network Reconfiguration 
 bigimg: 
-  - "/Projects/ga.jpeg"
+  - "/Research/ga.jpeg"
 ---
 
 ## INTRODUCTION
