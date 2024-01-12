@@ -1,7 +1,8 @@
 ---
 layout: page
 title: AI and ML Projects
-
+img: 
+  - "Randyansah.github.io/Projects/ai_page.jpeg"
 ---
 
 ## OCEAN CHALLENGE
