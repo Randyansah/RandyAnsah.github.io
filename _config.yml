@@ -30,7 +30,7 @@ navbar-links:
     - AI and ML: "/Randyansah.github.io/Projects/ai_ml"
   Research:
     - Distribution Network Reconfiguration using Genetic Algorithm: "/Randyansah.github.io/Research/dnr_ga" 
-    - FAAD:"/Randyansah.github.io/Research/faad"
+    - FAAD: "/Randyansah.github.io/Research/faad"
   CV: 
     - Electrical CV: "/Randyansah.github.io/CV/Electrical_CV"
     - AI and ML CV: "/Randyansah.github.io/CV/ai_ml"
