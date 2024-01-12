@@ -2,12 +2,12 @@
 layout: page
 title: AI and ML Projects
 img: 
-  - "Randyansah.github.io/Projects/ai_page.jpg"
+  - "ai_page.jpg"
 ---
 
 ## OCEAN CHALLENGE
 
-<img src="Projects/ocean_challenge3.png" alt="Ocean_challenge" width="500" height="600">
+<img src="ocean_challenge3.png" alt="Ocean_challenge" width="500" height="600">
 
 ## LUNG DISEASE
 <img src=".png" alt="lung_xray" width="500" height="600">
