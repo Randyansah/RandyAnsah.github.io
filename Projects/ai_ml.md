@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI and ML Projects
-img: 
+Projects: 
   - "ai_page.jpg"
 ---
 
