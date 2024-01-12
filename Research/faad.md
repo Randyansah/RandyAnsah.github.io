@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Distribution Network Reconfiguration 
+title: FAAD 
 bigimg: 
   - "/Research/faad_img.jpeg"
 ---
