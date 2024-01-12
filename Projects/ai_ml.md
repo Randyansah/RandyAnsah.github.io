@@ -1,8 +1,8 @@
 ---
 layout: page
 title: AI and ML Projects
-Projects: 
-  - "ai_page.jpg"
+bigimg: 
+  - "/Projects/ai_page.jpg"
 ---
 
 ## OCEAN CHALLENGE
